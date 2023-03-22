@@ -6,3 +6,7 @@ djangorestframework==3.14.0
 
 
 # Database
+
+
+# photo & image
+Pillow==9.4.0
